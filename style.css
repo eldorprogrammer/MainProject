@@ -1,0 +1,8 @@
+ul{
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+    color: green;
+    justify-self: unset;
+    border-radius: 7px;
+}
